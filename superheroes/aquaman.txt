@@ -1,6 +1,10 @@
-I am Aquaman
+ am Aquaman
 
+<<<<<<< HEAD
 I will talk to fish some of the time, but not all the time
+=======
+
+>>>>>>> master
 
 I have a trident
 
